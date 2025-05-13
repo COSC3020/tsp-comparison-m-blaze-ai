@@ -27,6 +27,12 @@ to this markdown file.
 
 To calculate the data, I tested two methods, Held-Karp and Local Search, on randomly generated distance matrices for differing numbers of cities (n). For each input size, I measured each algorithm's runtime and the duration of the tour discovered by it. The experiments were done three times for each input size, with the results then averaged. Finally, the data was then collected and evaluated to assess the algorithms' performance in terms of time and solution quality.
 
+Graphs:
+![Timegraph](https://github.com/user-attachments/assets/d8b9665c-f8af-4b78-8305-87e5749ff05f)
+![Tourgraph](https://github.com/user-attachments/assets/14ea6623-3bf5-40bf-86e1-44909190cf3a)
+![Graph1](https://github.com/user-attachments/assets/540875e7-1b3e-4a88-a2ec-1685c8562792)
+
+
 
 “I certify that I have listed all sources used to complete this exercise, including the use
 of any Large Language Models. All of the work is my own, except where stated
