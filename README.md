@@ -22,3 +22,13 @@ Local Search found. Why is this?
 
 Add the code to run your experiments, graphs, and an explanation of what you did
 to this markdown file.
+
+To calculate the data, I tested two methods, Held-Karp and Local Search, on randomly generated distance matrices for differing numbers of cities (n). For each input size, I measured each algorithm's runtime and the duration of the tour discovered by it. The experiments were done three times for each input size, with the results then averaged. Finally, the data was then collected and evaluated to assess the algorithms' performance in terms of time and solution quality.
+
+
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”
+
+For this assignment, I recieved help from Chat GPT in how to set up my code for tests and how to export the data for viewing. 
