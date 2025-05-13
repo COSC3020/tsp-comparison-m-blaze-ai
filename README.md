@@ -20,6 +20,8 @@ implementations on the same input distance matrices. The length of the tour that
 Held-Karp found should always be less than or equal to the tour length that
 Local Search found. Why is this?
 
+- Held-Karp always finds a tour that is shorter or equal to the tour length found by Local Search because it guarantees an optimal solution. It extensively evaluates all alternative routes and selects the one with the shortest total distance.
+
 Add the code to run your experiments, graphs, and an explanation of what you did
 to this markdown file.
 
